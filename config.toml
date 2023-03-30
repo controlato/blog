@@ -1,0 +1,5 @@
+baseURL = "http://blog.controlato.com"
+languageCode = "en-us"
+title = "Controlato"
+
+theme = "mendonca"
